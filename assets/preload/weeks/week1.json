@@ -1,22 +1,39 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "you're too slow",
+	"hideFreeplay": false,
+	"weekBackground": "boomsonic",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Green Hills",
+			"boom",
+			[
+				0,
+				0,
+				113
+			]
+		],
+		[
+			"Not Fast Enough",
+			"boom",
+			[
+				0,
+				0,
+				113
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "sonic"
 }
